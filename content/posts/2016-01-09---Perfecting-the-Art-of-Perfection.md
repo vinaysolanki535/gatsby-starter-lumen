@@ -24,6 +24,6 @@ this app has functionality like -
 
 it is a single page web app it means there are no refresh to prevent from refresh page i have used react router these are most powerful feature given by react.
 
- <a href="airbnb-colne.web.app" target="_blank">Hosting URL</a>
+ <a href="https://airbnb-colne.web.app/" target="_blank">Hosting URL</a>
  
   <a href="https://github.com/vinaysolanki535/airbnbClone" target="_blank">github code link</a>

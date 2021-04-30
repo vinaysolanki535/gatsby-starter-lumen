@@ -16,8 +16,6 @@ description: "This is a fullStack MERN build . it is a clone of Tinder web app .
 
 **Project Tinder Clone** This clone is build using MERN stack. and has a nice tinder card swipe functionality. to achive this feature i have used react tinder card module . a user can easily connect with other user by seenig photos ans swip right it. 
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
-
 
 ![alt text](https://user-images.githubusercontent.com/47470634/116733633-f5312b80-aa09-11eb-8ae6-dba1693ef858.PNG)
 

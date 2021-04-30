@@ -1,21 +1,29 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Project Airbnb clone
+date: "2021-03-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: "Project-Airbnb-clone"
+category: "Web devvelopment/react development"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - "React js"
+  - "Java Script"
+description: "This post is all about my current working project 'Airbnb Clone'. it has build on react usig create-react-app. it is a online hotel/room booking web app.  "
+
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+This post is about my current working project 'Airbnb Clone'. it has build on react usig create-react-app. it is a online hotel booking web app. to database connectivity i used firebase it is a cloude based datababe which prived by google.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+https://user-images.githubusercontent.com/47470634/116726216-9ca96080-aa00-11eb-95f1-394686232909.PNG
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+this app has functionality like - 
+. custom login/signup using firebase 
+. it provides search functionality a person can easily serach hotel room by date , number of guests
+. A user as a host can also give his hotel or room details and host it on web app to achive this       function i have used react dom model and google firestore , google storage which are given by firebase
+. for frontend i have used material UI it is a great UI libreary which gives pre build component and icons 
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+it is a single page web app it means there are no refresh to prevent from refresh page i have used react router these are most powerful feature given by react.
+
+ <a href="airbnb-colne.web.app" target="_blank">Hosting URL</a>
+ 
+  <a href="https://github.com/vinaysolanki535/airbnbClone" target="_blank">github code link</a>

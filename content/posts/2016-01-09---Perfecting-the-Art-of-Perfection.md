@@ -4,7 +4,7 @@ date: "2021-03-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "Project-Airbnb-clone"
-category: "Web devvelopment/react development"
+category: "Web development/react development"
 tags:
   - "React js"
   - "Java Script"

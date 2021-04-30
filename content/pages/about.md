@@ -1,7 +1,8 @@
+
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "https://user-images.githubusercontent.com/47470634/116719338-94e5be00-a9f8-11eb-9d65-77861d7ceae1.jpg"
 ---
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.

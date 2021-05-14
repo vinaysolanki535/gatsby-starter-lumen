@@ -5,7 +5,7 @@ template: "post"
 draft: false
 slug: "Project Gmail Clone"
 category: "web development/react development"
-description: "This is my current project which i ma working on it is clone of gmail which build using react js and redux for data layer."
+description: "This is my current project which i am working on it is clone of gmail which build using react js and redux for data layer."
 
 ---
 

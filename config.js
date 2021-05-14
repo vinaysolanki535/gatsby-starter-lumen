@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'vinay solanki',
     photo: '/photo.jpg',
-    bio: 'I am a Computer science student and passinoit about building web apps using react.',
+    bio: 'I am a Computer science student and passionate about building web apps using react.',
     contacts: {
       email: '',
       facebook: '#',

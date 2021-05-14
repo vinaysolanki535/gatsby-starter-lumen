@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'vinay-blog-react',
-  subtitle: 'I am a Computer science student and passinoit about building web apps using react.',
+  subtitle: 'I am a Computer science student and passionate about building web apps using react.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
